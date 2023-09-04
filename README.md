@@ -18,17 +18,20 @@ Welcome to the Ecommerce Sales Report repository. This repository contains a Pow
 
 - **Key Performance Indicators (KPIs)**: Track essential metrics with KPI cards displaying Total Sales, Total Profit, Total Quantity Sold, and Total Shipping Costs.
 
+  ![image](https://github.com/ImSouvikK/ECommerce-Sales-Report-using-PowerBI/assets/139162531/998f8bfc-8c74-438a-b1ef-c2d56c9c5e40)
+
+
 ## Getting Started
 
 1. Clone this repository to your local machine.
 
-2. Open the PowerBI file (`EcommerceSalesReport.pbix`) using Microsoft Power BI Desktop.
+2. Open the PowerBI file using Microsoft Power BI Desktop.
 
 3. Explore the report, customize it with your own sales data, and gain valuable insights into your ecommerce sales performance.
 
 ## Repository Structure
 
-- **Data**: Contains the dataset used for this report (if not confidential). You can replace this dataset with your own data for analysis.
+- **Data**: Contains the dataset used for this report. You can replace this dataset with your own data for analysis.
 
-- **PowerBI Files**: This folder contains the PowerBI report file (`EcommerceSalesReport.pbix`). You can also store any related files here.
+- **PowerBI Files**: This folder contains the PowerBI report file. You can also store any related files here.
 
